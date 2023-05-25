@@ -4,7 +4,7 @@
 }
 .first-pic {
   height: 100vh;
-  background-image: url(images/image1.png);
+  background-image: url(image1.png);
   background-size: cover;
   background-attachment: fixed;
   display: flex;
@@ -51,9 +51,9 @@ h1 {
   color: white;
 }
 .second-pic {
-  background-image: url(images/image2.png);
+  background-image: url(image2.png);
 }
 
 .third-pic {
-  background-image: url(images/image3.png);
+  background-image: url(image3.png);
 }
